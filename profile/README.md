@@ -1,6 +1,6 @@
 # PREMISE - Open and Reproducible Materials Science Research
 
-The PREMISE project, a Measure 1 Establish project of the ETH Board's Open Research Data (ORD) program, aims to build the infrastrucutre required to support the adoption of ORD standards and practices.
+The PREMISE project, a Measure 1 Establish project of the ETH Board's Open Research Data (ORD) program, aims to build the infrastructure required to support the adoption of ORD standards and practices.
 
 <!--
 
